@@ -1,2 +1,2 @@
 # Clock
-A simple javascript project based on pure javascript, html and css.
+A simple project based on pure javascript, html and css.
