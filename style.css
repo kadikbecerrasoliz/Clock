@@ -1,0 +1,35 @@
+body {
+    background-color: #ffa600;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.clock {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+span {
+    padding: 15px 35px;
+    margin: 10px 15px;
+    border: 1px solid white;
+}
+
+button {
+    background-color: #ffa600;
+    font-size: 1.5em;
+    padding: 20px 40px;
+    margin: 30px;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.buttons {
+    margin: 0 auto;
+    width: 60%;
+}
+
